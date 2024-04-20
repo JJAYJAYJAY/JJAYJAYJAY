@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>CTF on JAYJAY的博客</title>
+        <link>http://150.158.146.137/categories/ctf/</link>
+        <description>Recent content in CTF on JAYJAY的博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Sat, 20 Apr 2024 15:42:40 +0800</lastBuildDate><atom:link href="http://150.158.146.137/categories/ctf/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hello</title>
+        <link>http://150.158.146.137/p/hello/</link>
+        <pubDate>Sat, 20 Apr 2024 15:42:40 +0800</pubDate>
+        
+        <guid>http://150.158.146.137/p/hello/</guid>
+        <description>&lt;h1 id=&#34;hello-world&#34;&gt;
+    &lt;a href=&#34;#hello-world&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    hello world
+&lt;/h1&gt;&lt;p&gt;helloworld&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

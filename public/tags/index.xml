@@ -6,6 +6,14 @@
         <description>Recent content in Tags on JAYJAY的博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Example Person</copyright><atom:link href="http://150.158.146.137/tags/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Sat, 20 Apr 2024 15:42:40 +0800</lastBuildDate><atom:link href="http://150.158.146.137/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>123</title>
+        <link>http://150.158.146.137/tags/123/</link>
+        <pubDate>Sat, 20 Apr 2024 15:42:40 +0800</pubDate>
+        
+        <guid>http://150.158.146.137/tags/123/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>

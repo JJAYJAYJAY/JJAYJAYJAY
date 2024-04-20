@@ -5,10 +5,22 @@
     <loc>http://150.158.146.137/</loc>
     <lastmod>2024-04-20T15:42:40+08:00</lastmod>
   </url><url>
+    <loc>http://150.158.146.137/tags/123/</loc>
+    <lastmod>2024-04-20T15:42:40+08:00</lastmod>
+  </url><url>
+    <loc>http://150.158.146.137/categories/</loc>
+    <lastmod>2024-04-20T15:42:40+08:00</lastmod>
+  </url><url>
+    <loc>http://150.158.146.137/categories/ctf/</loc>
+    <lastmod>2024-04-20T15:42:40+08:00</lastmod>
+  </url><url>
     <loc>http://150.158.146.137/p/hello/</loc>
     <lastmod>2024-04-20T15:42:40+08:00</lastmod>
   </url><url>
     <loc>http://150.158.146.137/post/</loc>
+    <lastmod>2024-04-20T15:42:40+08:00</lastmod>
+  </url><url>
+    <loc>http://150.158.146.137/tags/</loc>
     <lastmod>2024-04-20T15:42:40+08:00</lastmod>
   </url><url>
     <loc>http://150.158.146.137/page/</loc>
@@ -17,15 +29,9 @@
     <loc>http://150.158.146.137/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://150.158.146.137/categories/</loc>
-  </url><url>
-    <loc>http://150.158.146.137/tags/</loc>
-  </url><url>
-    <loc>http://150.158.146.137/categories/test/</loc>
-  </url><url>
     <loc>http://150.158.146.137/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
-    <loc>http://150.158.146.137/%E8%BF%9E%E6%8E%A5/</loc>
+    <loc>http://150.158.146.137/categories/%E5%89%8D%E7%AB%AF/</loc>
   </url><url>
     <loc>http://150.158.146.137/search/</loc>
   </url>
