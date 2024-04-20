@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on JAYJAY的博客</title>
+        <link>http://150.158.146.137/posts/</link>
+        <description>Recent content in Posts on JAYJAY的博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Sat, 20 Apr 2024 15:19:15 +0800</lastBuildDate><atom:link href="http://150.158.146.137/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hello World</title>
+        <link>http://150.158.146.137/posts/hello-world/</link>
+        <pubDate>Sat, 20 Apr 2024 00:34:07 +0800</pubDate>
+        
+        <guid>http://150.158.146.137/posts/hello-world/</guid>
+        <description>&lt;h1 id=&#34;123&#34;&gt;
+    &lt;a href=&#34;#123&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    123
+&lt;/h1&gt;&lt;p&gt;123
+1231&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
