@@ -2,6 +2,7 @@
 title = "使用piniaPluginPersistedstate导致多账号登录网页时信息冲突bug"
 date = 2024-04-20T17:44:18+08:00
 draft = false
+author = "JJ"
 
 categories = [
     "前端",
@@ -10,8 +11,8 @@ categories = [
 tags = [
     "vue",
 ]
+image = "/cover/cover1.webp"
 +++
-
 > 我尝试使用pinia储存用户的登录状态，使用pinia.use(piniaPluginPersistedstate)，使得pinia能够永久化存储，以便当页面刷新时pinia数据不会丢失。但是当登录两个用户时，两个用户的数据发生了混杂。
 
 ## bug复现

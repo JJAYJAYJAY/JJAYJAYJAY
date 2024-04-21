@@ -7,21 +7,33 @@ menu:
             icon: user
 ---
 
+## 我会些什么
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+- vue框架前端开发，熟练掌握css、js等前端开发技巧和技术。
+- 后端简单的java、php和python的django框架。
+- 简单的docker容器部署、ansible自动化运维工具脚本编写。
+- 简单的网络安全防护与攻击，sql注入漏洞、反序列化漏洞、pwn二进制漏洞。
+- 简单的acm算法知识，动态规划、寻路算法等基本算法。
+- 小程序前端开发，uni-app等框架。
 
-Hugo makes use of a variety of open source projects including:
+## 此网站用于做什么
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+- 日常开发遇到bug的解决思路分享。
+- 日常学习的记录与分享。
+- 分享和记录开发技巧和开发思路。
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+## 欢迎各位大佬与我交流     
+<p style="font-style:italic; color: #555;">欢迎添加好友交流</p>
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+<div style="display:flex; align-items:center; justify-content:space-around; margin-top:20px;">
+  <div style="text-align:center;">
+    <div stlye="font-weight: bold">QQ: 2422301985</div>
+    <img src="../../image/2707113c1ebb619626c93d963274b9f.jpg" alt="QQ二维码" style="width:200px; height:auto; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+  
+  <div style="text-align:center;">
+    <div stlye="font-weight: bold">WeChat: jayjay0218</div>
+    <img src="../../image/7053a0017494cdcd222fe203990810b.jpg" alt="WeChat二维码" style="width:200px; height:auto; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+</div>
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
