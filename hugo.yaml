@@ -31,6 +31,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
+    # favicon: '/headerpicture.jpg'
     favicon: # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
@@ -42,7 +43,7 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
+        emoji: 🎃
         subtitle: 你好
         avatar:
             enabled: true
