@@ -10,6 +10,7 @@ categories = [
 
 tags = [
     "vue",
+    "javaScript",
 ]
 image = "/cover/cover1.webp"
 +++

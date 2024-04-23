@@ -8,6 +8,7 @@ categories = [
 
 tags = [
     "vue",
+    "javaScript",
 ]
 image = "/cover/cover2.jpg"
 +++
