@@ -1,7 +1,7 @@
 baseurl: http://150.158.146.137/
 languageCode: zh-cn
 theme: hugo-theme-stack
-paginate: 3
+paginate: 4
 title: JAYJAY的博客
 # copyright: Example Person
 
